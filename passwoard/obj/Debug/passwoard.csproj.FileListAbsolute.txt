@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\passwoard\passwoard\obj\Debug\passwoard.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\passwoard\passwoard\obj\Debug\passwoard.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\passwoard\passwoard\obj\Debug\passwoard.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\passwoard\passwoard\bin\Debug\passwoard.exe.config
+C:\Users\Admin\source\repos\passwoard\passwoard\bin\Debug\passwoard.exe
+C:\Users\Admin\source\repos\passwoard\passwoard\bin\Debug\passwoard.pdb
+C:\Users\Admin\source\repos\passwoard\passwoard\obj\Debug\passwoard.exe
+C:\Users\Admin\source\repos\passwoard\passwoard\obj\Debug\passwoard.pdb

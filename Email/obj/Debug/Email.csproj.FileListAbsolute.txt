@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Email\Email\bin\Debug\Email.exe.config
+C:\Users\Admin\source\repos\Email\Email\bin\Debug\Email.exe
+C:\Users\Admin\source\repos\Email\Email\bin\Debug\Email.pdb
+C:\Users\Admin\source\repos\Email\Email\obj\Debug\Email.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Email\Email\obj\Debug\Email.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Email\Email\obj\Debug\Email.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Email\Email\obj\Debug\Email.exe
+C:\Users\Admin\source\repos\Email\Email\obj\Debug\Email.pdb
